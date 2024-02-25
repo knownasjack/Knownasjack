@@ -25,23 +25,29 @@ I'm a developer with a keen interest in building and exploring new technologies.
 ### 🎧 Spotify Playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xfhdkeuaoh5t2rezwknxpj7fdy)
 
-### 💬 Discord Status
-![Discord](https://discord.c99.nl/widget/theme-2/1153349857302564927.png)
+### 💬 Connect with Me on Discord
+![Discord](https://img.shields.io/badge/Discord-jack.luxe%231133-7289DA?style=flat&logo=discord&logoColor=white)
 
 ### 🛠 Technologies and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ... Add more technologies and tools you use
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=knownasjack&color=blueviolet)
+
 ### 📈 My GitHub Stats:
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=knownasjack&show_icons=true&theme=vision-friendly-dark)](https://github.com/knownasjack)
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/pull/1) in [REPO_NAME](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
-2. 🗣 Commented on [#2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/issues/2) in [REPO_NAME](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+1. 🎉 Merged PR [#1](https://github.com/knownasjack/REPO_NAME/pull/1) in [REPO_NAME](https://github.com/knownasjack/REPO_NAME)
+2. 🗣 Commented on [#2](https://github.com/knownasjack/REPO_NAME/issues/2) in [REPO_NAME](https://github.com/knownasjack/REPO_NAME)
 ... Keep updating this section manually or use a GitHub Action to automate.
 <!--END_SECTION:activity-->
 
