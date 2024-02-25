@@ -1,24 +1,42 @@
-<h1 align="center">Hi 👋, I'm Knownasjack</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Jack Luxe! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knownasjack&label=Profile%20views&color=0e75b6&style=flat" alt="knownasjack" /> </p>
+Welcome to my GitHub profile! I'm glad you're here. I'm a developer with a knack for building immersive and impactful software applications. Outside of coding, I love connecting with people and sharing music.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knownasjack" alt="knownasjack" /></a> </p>
+## 🚀 About Me
+- 🔭 I’m currently working on innovative web applications that aim to improve user experiences.
+- 🌱 I’m currently diving deeper into cloud technologies and microservices.
+- 👯 I’m looking to collaborate on open source projects that focus on social good.
+- 💬 Ask me about web development, cloud computing, or anything tech-related.
+- 📫 How to reach me: [Insert Your Email Here]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an avid hiker and have climbed several high peaks around the world.
 
-<p align="left"> <a href="https://twitter.com/ligitmp" target="blank"><img src="https://img.shields.io/twitter/follow/ligitmp?logo=twitter&style=for-the-badge" alt="ligitmp" /></a> </p>
+## 🎧 What's Playing on Spotify
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xfhdkeuaoh5t2rezwknxpj7fdy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ligitmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ligitmp" height="30" width="40" /></a>
-<a href="https://instagram.com/known_asjack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="known_asjack" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/discord.gg/ligitstore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/discord.gg/ligitstore" height="30" width="40" /></a>
+## 💬 Let's Connect on Discord
+<p>
+  <a href="https://discord.com/users/jack.luxe"><img src="https://img.shields.io/badge/Discord-jack.luxe%237289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🛠 Skills
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools & Platforms:** Docker, Kubernetes, AWS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knownasjack&show_icons=true&locale=en&layout=compact" alt="knownasjack" /></p>
+## 📈 My GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=calm" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knownasjack&show_icons=true&locale=en" alt="knownasjack" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=vue-dark" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knownasjack&" alt="knownasjack" /></p>
+## 📖 Currently Reading
+- "Clean Code" by Robert C. Martin
+- "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+
+## 🏆 Achievements
+- Completed a marathon in under 4 hours.
+- Led a team that won a regional hackathon focused on environmental solutions.
