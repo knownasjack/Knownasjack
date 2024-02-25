@@ -1,52 +1,53 @@
-# Welcome to the Cosmos, I'm Jack Luxe! 🌌✨
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1173230708446220312/1211193088807145612/20230815_022605_0000.png?ex=65ed4e77&is=65dad977&hm=27afb5401989e0c418ef9c3d6c60503548a7184dfb8be0576a3f09603db77a08&" alt="Banner">
+</div>
 
-![Sci-Fi Discord Badge](https://your-image-host.com/path/to/your/sci-fi-discord-badge.png)
+<h1 align="center">Hi 👋, I'm Jack Luxe</h1>
+<h3 align="center">A passionate developer from the digital cosmos</h3>
 
-Journey with me through the realms of code and creativity, where each project is an adventure beyond the stars. As a guardian of the digital galaxy, I craft experiences that defy the ordinary.
+<p align="center">
+  <a href="https://twitter.com/ligitmp" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-ligitmp-blue?style=flat&logo=twitter&logoColor=white" alt="ligitmp" /></a>
+</p>
 
-## 🚀 Mission Brief
-A software architect by trade and explorer at heart, I navigate the nebulae of tech to uncover secrets of the universe through code.
+---
 
-- 🔭 Engineering marvels at: [Your Company/Project]
-- 🌌 Exploring realms: Machine Learning, Web Development, Blockchain
-- 🤖 Collaborating on: Open Source, VR Experiences
-- 📡 Hailing frequencies: [your-email@example.com]
-- 🎮 Gaming universe: [Your Steam/Xbox/PlayStation Profile]
+### 🤓 About Me:
+I'm a developer with a keen interest in building and exploring new technologies. I'm passionate about creating impactful projects and constantly learning to improve my skills.
 
-## 🎧 Now Jamming on Spotify
+- 🔭 I’m currently working on various innovative projects
+- 🌱 I’m currently learning advanced JavaScript frameworks
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about anything tech-related
+- 📫 How to reach me: `[Your Email]`
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to explore the intersection of technology and music
+
+### 🎧 Spotify Playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xfhdkeuaoh5t2rezwknxpj7fdy)
 
-## 🌐 Galactic Communications
-- **Discord**: jack.luxe
-- **GitHub**: [Your GitHub](https://github.com/knownasjack)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
+### 💬 Discord Status
+![Discord](https://discord.c99.nl/widget/theme-2/1153349857302564927.png)
 
-## 🛠 Tech Arsenal
-- **Languages**: JavaScript, Python, C#
-- **Frameworks**: React, Node.js, .NET
-- **Tools**: Docker, Kubernetes, AWS
+### 🛠 Technologies and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+... Add more technologies and tools you use
 
-## 📈 Stellar GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
+### 📈 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="GitHub Streak Stats" />
-</p>
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)](https://github.com/YOUR_GITHUB_USERNAME)
 
-## 🪐 Featured Voyages
-- **[Project Name]**: An interstellar journey through [Description]
-- **[Project Name]**: Crafting worlds with [Description]
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/pull/1) in [REPO_NAME](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+2. 🗣 Commented on [#2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/issues/2) in [REPO_NAME](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+... Keep updating this section manually or use a GitHub Action to automate.
+<!--END_SECTION:activity-->
 
-## 📚 Knowledge Repository
-- "The Pragmatic Programmer" - Charting the seas of best practices
-- "Clean Code" - Decoding the ancient texts of software craftsmanship
+### 📚 Latest Blog Posts
+- [Blog Post Title One](BLOG_POST_URL)
+- [Blog Post Title Two](BLOG_POST_URL)
+... Add more posts as you like
 
-## 🏅 Intergalactic Achievements
-- First human to solve the [Challenge Name].
-- Awarded the [Award Name] for contributions to [Field/Technology].
-
-## 👽 Extracurricular Activities
-- **Blogging**: Share my thoughts and discoveries on [Your Blog/Platform].
-- **Photography**: Capturing the universe through the lens at [Instagram/Flickr].
+---
